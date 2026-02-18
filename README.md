@@ -18,3 +18,16 @@ This program asks the user to enter a number and analyzes it by determining:
 2. Run:
    python number_analyzer.py# python-term1-group-project
 Term One Group Project – Introduction to Python Programming
+---
+
+## Question 3 – Word Counter
+
+### Description
+This program accepts a sentence from the user and displays:
+- Number of words
+- Number of characters (excluding spaces)
+- Longest word
+
+### How to Run
+```bash
+python word_counter.py
